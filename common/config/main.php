@@ -1,8 +1,8 @@
 <?php
 return [
-    'name' => 'Yii2-Adminlte',
-    'language' => 'zh-CN',
-    'timeZone' => 'Asia/Shanghai',
+    'name' => 'AdminLTE',
+    'language' => 'en-US',
+    'timeZone' => 'Asia/Jakarta',
     'vendorPath' => dirname(dirname(__DIR__)) . '/vendor',
     'components' => [
         'authManager' => [

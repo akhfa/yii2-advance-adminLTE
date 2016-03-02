@@ -11,8 +11,6 @@ return [
     'basePath' => dirname(__DIR__),
     'controllerNamespace' => 'backend\controllers',
     'bootstrap' => ['log'],
-    'language' => 'en-US',
-    'sourceLanguage' => 'en-US',
     'modules' => [
         'blog' => [
             'class' => 'funson86\blog\Module',
